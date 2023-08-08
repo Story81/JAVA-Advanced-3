@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.ArrayList;
-
 public class App {
     public static void main(String[] args) {
         Candy candy1 = new Candy("\"Мишка на севере\"", 79.99, 100, "молочный");
